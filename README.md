@@ -3,9 +3,9 @@
 This repo is a simple boilerplate for getting started using the Static Site Generator Webpack Plugin with react-routes and react.
 
 ####Getting started
-`git clone git@github.com:hzdg/site-generator-boilerplate.git`
+`git clone git@github.com:Cspeisman/sample-blog.git`
 
-`cd site-generator-boilerplate/`
+`cd sample-blog`
 
 `npm install`
 

@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "webpack": "babel-node ./node_modules/.bin/webpack --pogress --colors",
-    "dev": "babel-node ./node_modules/.bin/webpack-dev-server --progress --colors",
+    "webpack": "./node_modules/.bin/babel-node ./node_modules/.bin/webpack --pogress --colors",
+    "dev": "./node_modules/.bin/babel-node ./node_modules/.bin/webpack-dev-server --progress --colors",
     "start": "npm run dev",
     "lint": "eslint ."
   },
